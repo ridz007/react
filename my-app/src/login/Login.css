@@ -1,0 +1,12 @@
+
+.innerDiv {
+    background-color: lightgrey;
+    border: 1px solid;
+    border-radius: 6px;
+    margin: 5% 16%;
+    padding: 3% 6%;
+}
+
+.comnPad {
+    padding-top: 3%;
+}
